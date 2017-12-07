@@ -1,0 +1,7 @@
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\bin\Debug\fsharpAdventCalendar.XML
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\bin\Debug\fsharpAdventCalendar.dll
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\bin\Debug\fsharpAdventCalendar.pdb
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\bin\Debug\FSharp.Core.dll
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\bin\Debug\FSharp.Core.xml
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\obj\Debug\fsharpAdventCalendar.dll
+C:\sandbox\fsharpAdventCalendar\fsharpAdventCalendar\obj\Debug\fsharpAdventCalendar.pdb
